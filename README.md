@@ -1,3 +1,3 @@
 # EPT_dataNalgo
 
-C++ OOP visualize by some openGL stuffs (most of them are POCs)
+C++ data structure and algorithm OOP style (most of them are POCs)
